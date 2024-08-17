@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>  
+  <lang slug="Processing">
+    <text>Processing</text>
+  </lang>
+  <lang slug="Queue"> 
+    <text>Queue</text>
+  </lang>
+  <lang slug="Failure"> 
+    <text>Failure</text>
+  </lang>
+  <lang slug="Repeat">
+    <text>Repeat</text>
+  </lang>
+  <lang slug="Complete">
+    <text>Complete</text>
+  </lang>
+  <lang slug="Post successfully"> 
+    <text>Post successfully</text>
+  </lang>
+  <lang slug="2016 - 2017 © VTCreators. All rights reserved.">
+    <text>2016 - 2017 © VTCreators. All rights reserved.</text>
+  </lang>
+  <lang slug="Home">
+    <text>Home</text>
+  </lang>
+  <lang slug="Pricing"> 
+    <text>Pricing</text>
+  </lang>
+  <lang slug="Register">
+    <text>Register</text>
+  </lang>
+  <lang slug="Login"> 
+    <text>Login</text>
+  </lang>
+  <lang slug="Hi">
+    <text>Hi</text>
+  </lang>
+  <lang slug="Update">
+    <text>Update</text>
+  </lang>
+  <lang slug="Logout">
+    <text>Logout</text>
+  </lang>
+  <lang slug="MAIN NAVIGATION"> 
+    <text>MAIN NAVIGATION</text>
+  </lang>
+  <lang slug="Add new"> 
+    <text>Add new</text>
+  </lang>
+  <lang slug="Schedule post"> 
+    <text>Schedule post</text>
+  </lang>
+  <lang slug="Schedule report"> 
+    <text>Schedule report</text>
+  </lang>
+  <lang slug="Instagram accounts">
+    <text>Instagram accounts</text>
+  </lang>
+  <lang slug="Save post"> 
+    <text>Save post</text>
+  </lang>
+  <lang slug="ADMIN AREA">
+    <text>ADMIN AREA</text>
+  </lang>
+  <lang slug="Payment management">
+    <text>Payment management</text>
+  </lang>
+  <lang slug="Package settings">
+    <text>Package settings</text>
+  </lang>
+  <lang slug="Payment settings">
+    <text>Payment settings</text>
+  </lang>
+  <lang slug="Payment history"> 
+    <text>Payment history</text>
+  </lang>
+  <lang slug="User management"> 
+    <text>User management</text>
+  </lang>
+  <lang slug="Settings">
+    <text>Settings</text>
+  </lang>
+  <lang slug="VT Creators Team">
+    <text>VT Creators Team</text>
+  </lang>
+  <lang slug="Select at least a item">
+    <text>Select at least a item</text>
+  </lang>
+  <lang slug="Successfully">
+    <text>Successfully</text>
+  </lang>
+  <lang slug="Select at least a Page/Group/Profile">
+    <text>Select at least a Page/Group/Profile</text>
+  </lang>
+  <lang slug="Instagram account not exist"> 
+    <text>Instagram account not exist</text>
+  </lang>
+  <lang slug="Account"> 
+    <text>Account</text>
+  </lang>
+  <lang slug="Total process"> 
+    <text>Total process</text>
+  </lang>
+  <lang slug="Report by day"> 
+    <text>Report by day</text>
+  </lang>
+  <lang slug="Post">
+    <text>Post</text>
+  </lang>
+  <lang slug="Success"> 
+    <text>Success</text>
+  </lang>
+  <lang slug="Posts"> 
+    <text>Posts</text>
+  </lang>
+  <lang slug="THE ULTIMATE WAY TO HELP YOUR MARKETING EFFECTIVENESS ON INSTAGRAM TODAY">
+    <text>THE ULTIMATE WAY TO HELP YOUR MARKETING EFFECTIVENESS ON INSTAGRAM TODAY</text>
+  </lang>
+  <lang slug="Using social media is a fun and sure way to get new friends, customers and fans. Getting your Instagram profile out there for everyone to see is a hard and tedious task and tim is very precious for all of us and promoting yourself on Instagram is a time-consuming everyday activity. Let it help you automate your daily activity and get you the crowd you deserve and desire">
+    <text>Using social media is a fun and sure way to get new friends, customers and fans. Getting your Instagram profile out there for everyone to see is a hard and tedious task and tim is very precious for all of us and promoting yourself on Instagram is a time-consuming everyday activity. Let it help you automate your daily activity and get you the crowd you deserve and desire</text>
+  </lang>
+  <lang slug="This is what can do for you"> 
+    <text>This is what can do for you</text>
+  </lang>
+  <lang slug="Post/Schedule"> 
+    <text>Post/Schedule</text>
+  </lang>
+  <lang slug="Post photo, video, story photo to multi profiles">
+    <text>Post photo, video, story photo to multi profiles</text>
+  </lang>
+  <lang slug="Report Schedule"> 
+    <text>Report Schedule</text>
+  </lang>
+  <lang slug="Report all info for posted. For example: post success, failure, processing, repeat, ..."> 
+    <text>Report all info for posted. For example: post success, failure, processing, repeat, ...</text>
+  </lang>
+  <lang slug="Preview Post">
+    <text>Preview Post</text>
+  </lang>
+  <lang slug="Help you preview your post before publishing them"> 
+    <text>Help you preview your post before publishing them</text>
+  </lang>
+  <lang slug="And many more another feature...">
+    <text>And many more another feature...</text>
+  </lang>
+  <lang slug="Select your timezone to start your campaign"> 
+    <text>Select your timezone to start your campaign</text>
+  </lang>
+  <lang slug="Save">
+    <text>Save</text>
+  </lang>
+  <lang slug="Please input all fields"> 
+    <text>Please input all fields</text>
+  </lang>
+  <lang slug="This instagram account already exists"> 
+    <text>This instagram account already exists</text>
+  </lang>
+  <lang slug="Oh sorry! You have exceeded the number of accounts allowed, You are only allowed to update your account"> 
+    <text>Oh sorry! You have exceeded the number of accounts allowed, You are only allowed to update your account</text>
+  </lang>
+  <lang slug="Update successfully"> 
+    <text>Update successfully</text>
+  </lang>
+  <lang slug="Update failure">
+    <text>Update failure</text>
+  </lang>
+  <lang slug="Action">
+    <text>Action</text>
+  </lang>
+  <lang slug="Active">
+    <text>Active</text>
+  </lang>
+  <lang slug="Deactive">
+    <text>Deactive</text>
+  </lang>
+  <lang slug="Delete">
+    <text>Delete</text>
+  </lang>
+  <lang slug="User">
+    <text>User</text>
+  </lang>
+  <lang slug="Instagram ID">
+    <text>Instagram ID</text>
+  </lang>
+  <lang slug="Username">
+    <text>Username</text>
+  </lang>
+  <lang slug="Update Token">
+    <text>Update Token</text>
+  </lang>
+  <lang slug="Status">
+    <text>Status</text>
+  </lang>
+  <lang slug="Option">
+    <text>Option</text>
+  </lang>
+  <lang slug="Are you sure you want to delete this item?">
+    <text>Are you sure you want to delete this item?</text>
+  </lang>
+  <lang slug="Update Instagram account">
+    <text>Update Instagram account</text>
+  </lang>
+  <lang slug="Instagram username">
+    <text>Instagram username</text>
+  </lang>
+  <lang slug="Instagram password">
+    <text>Instagram password</text>
+  </lang>
+  <lang slug="Submit">
+    <text>Submit</text>
+  </lang>
+  <lang slug="Back">
+    <text>Back</text>
+  </lang>
+  <lang slug="Name is required">
+    <text>Name is required</text>
+  </lang>
+  <lang slug="Price is required"> 
+    <text>Price is required</text>
+  </lang>
+  <lang slug="Day is required"> 
+    <text>Day is required</text>
+  </lang>
+  <lang slug="Name">
+    <text>Name</text>
+  </lang>
+  <lang slug="Type">
+    <text>Type</text>
+  </lang>
+  <lang slug="Price"> 
+    <text>Price</text>
+  </lang>
+  <lang slug="Day"> 
+    <text>Day</text>
+  </lang>
+  <lang slug="Default"> 
+    <text>Default</text>
+  </lang>
+  <lang slug="Update package">
+    <text>Update package</text>
+  </lang>
+  <lang slug="Package name">
+    <text>Package name</text>
+  </lang>
+  <lang slug="Package price"> 
+    <text>Package price</text>
+  </lang>
+  <lang slug="Package day"> 
+    <text>Package day</text>
+  </lang>
+  <lang slug="Package order"> 
+    <text>Package order</text>
+  </lang>
+  <lang slug="Package default"> 
+    <text>Package default</text>
+  </lang>
+  <lang slug="Yes"> 
+    <text>Yes</text>
+  </lang>
+  <lang slug="No">
+    <text>No</text>
+  </lang>
+  <lang slug="Free">
+    <text>Free</text>
+  </lang>
+  <lang slug="Trial"> 
+    <text>Trial</text>
+  </lang>
+  <lang slug="Maximum Facebook account on user">
+    <text>Maximum Facebook account on user</text>
+  </lang>
+  <lang slug="List modules">
+    <text>List modules</text>
+  </lang>
+  <lang slug="Auto post"> 
+    <text>Auto post</text>
+  </lang>
+  <lang slug="Invoice"> 
+    <text>Invoice</text>
+  </lang>
+  <lang slug="First name">
+    <text>First name</text>
+  </lang>
+  <lang slug="Last name"> 
+    <text>Last name</text>
+  </lang>
+  <lang slug="Receiver email">
+    <text>Receiver email</text>
+  </lang>
+  <lang slug="Payer email"> 
+    <text>Payer email</text>
+  </lang>
+  <lang slug="Package"> 
+    <text>Package</text>
+  </lang>
+  <lang slug="Currency">
+    <text>Currency</text>
+  </lang>
+  <lang slug="Street">
+    <text>Street</text>
+  </lang>
+  <lang slug="City">
+    <text>City</text>
+  </lang>
+  <lang slug="Country"> 
+    <text>Country</text>
+  </lang>
+  <lang slug="Payment date">
+    <text>Payment date</text>
+  </lang>
+  <lang slug="Payment status">
+    <text>Payment status</text>
+  </lang>
+  <lang slug="Paypal email is required">
+    <text>Paypal email is required</text>
+  </lang>
+  <lang slug="Currency is required">
+    <text>Currency is required</text>
+  </lang>
+  <lang slug="Paypal email">
+    <text>Paypal email</text>
+  </lang>
+  <lang slug="Currency symbol"> 
+    <text>Currency symbol</text>
+  </lang>
+  <lang slug="PICK THE BEST PLAN FOR YOU!"> 
+    <text>PICK THE BEST PLAN FOR YOU!</text>
+  </lang>
+  <lang slug="days">
+    <text>days</text>
+  </lang>
+  <lang slug="UPGRADE NOW"> 
+    <text>UPGRADE NOW</text>
+  </lang>
+  <lang slug="Video is required"> 
+    <text>Video is required</text>
+  </lang>
+  <lang slug="Image is required"> 
+    <text>Image is required</text>
+  </lang>
+  <lang slug="Have problem with this item"> 
+    <text>Have problem with this item</text>
+  </lang>
+  <lang slug="Time post is required"> 
+    <text>Time post is required</text>
+  </lang>
+  <lang slug="Select at least a instagram account"> 
+    <text>Select at least a instagram account</text>
+  </lang>
+  <lang slug="The error occurred during processing">
+    <text>The error occurred during processing</text>
+  </lang>
+  <lang slug="PHOTO"> 
+    <text>PHOTO</text>
+  </lang>
+  <lang slug="STORY PHOTO"> 
+    <text>STORY PHOTO</text>
+  </lang>
+  <lang slug="VIDEO"> 
+    <text>VIDEO</text>
+  </lang>
+  <lang slug="Message"> 
+    <text>Message</text>
+  </lang>
+  <lang slug="Write something...">
+    <text>Write something...</text>
+  </lang>
+  <lang slug="Image"> 
+    <text>Image</text>
+  </lang>
+  <lang slug="Upload">
+    <text>Upload</text>
+  </lang>
+  <lang slug="Video URL"> 
+    <text>Video URL</text>
+  </lang>
+  <lang slug="Delay (seconds)"> 
+    <text>Delay (seconds)</text>
+  </lang>
+  <lang slug="seconds"> 
+    <text>seconds</text>
+  </lang>
+  <lang slug="Post now">
+    <text>Post now</text>
+  </lang>
+  <lang slug="Schedule">
+    <text>Schedule</text>
+  </lang>
+  <lang slug="Time post"> 
+    <text>Time post</text>
+  </lang>
+  <lang slug="Delay (minutes)"> 
+    <text>Delay (minutes)</text>
+  </lang>
+  <lang slug="minutes"> 
+    <text>minutes</text>
+  </lang>
+  <lang slug="Auto pause after complete"> 
+    <text>Auto pause after complete</text>
+  </lang>
+  <lang slug="Time pause">
+    <text>Time pause</text>
+  </lang>
+  <lang slug="Repeat post"> 
+    <text>Repeat post</text>
+  </lang>
+  <lang slug="End day"> 
+    <text>End day</text>
+  </lang>
+  <lang slug="Save the schedule"> 
+    <text>Save the schedule</text>
+  </lang>
+  <lang slug="Pause"> 
+    <text>Pause</text>
+  </lang>
+  <lang slug="Resume">
+    <text>Resume</text>
+  </lang>
+  <lang slug="Time left:">
+    <text>Time left:</text>
+  </lang>
+  <lang slug="Preview"> 
+    <text>Preview</text>
+  </lang>
+  <lang slug="Anonymous"> 
+    <text>Anonymous</text>
+  </lang>
+  <lang slug="like this"> 
+    <text>like this</text>
+  </lang>
+  <lang slug="Add a comment…">
+    <text>Add a comment…</text>
+  </lang>
+  <lang slug="Save list"> 
+    <text>Save list</text>
+  </lang>
+  <lang slug="Select Instagram Accounts"> 
+    <text>Select Instagram Accounts</text>
+  </lang>
+  <lang slug="All categories">
+    <text>All categories</text>
+  </lang>
+  <lang slug="Add new category">
+    <text>Add new category</text>
+  </lang>
+  <lang slug="Update category"> 
+    <text>Update category</text>
+  </lang>
+  <lang slug="Remove category selected">
+    <text>Remove category selected</text>
+  </lang>
+  <lang slug="Privacy"> 
+    <text>Privacy</text>
+  </lang>
+  <lang slug="Link">
+    <text>Link</text>
+  </lang>
+  <lang slug="Process"> 
+    <text>Process</text>
+  </lang>
+  <lang slug="______">
+    <text>______</text>
+  </lang>
+  <lang slug="Visit page">
+    <text>Visit page</text>
+  </lang>
+  <lang slug="Select category"> 
+    <text>Select category</text>
+  </lang>
+  <lang slug="Save management"> 
+    <text>Save management</text>
+  </lang>
+  <lang slug="Save successfully"> 
+    <text>Save successfully</text>
+  </lang>
+  <lang slug="Category">
+    <text>Category</text>
+  </lang>
+  <lang slug="Schedules"> 
+    <text>Schedules</text>
+  </lang>
+  <lang slug="Are you sure you want to delete all items?">
+    <text>Are you sure you want to delete all items?</text>
+  </lang>
+  <lang slug="Delete all">
+    <text>Delete all</text>
+  </lang>
+  <lang slug="Created"> 
+    <text>Created</text>
+  </lang>
+  <lang slug="Website title is required"> 
+    <text>Website title is required</text>
+  </lang>
+  <lang slug="Public key is required">
+    <text>Public key is required</text>
+  </lang>
+  <lang slug="Secret key is required">
+    <text>Secret key is required</text>
+  </lang>
+  <lang slug="GENARAL"> 
+    <text>GENARAL</text>
+  </lang>
+  <lang slug="POST - SCHEDULE"> 
+    <text>POST - SCHEDULE</text>
+  </lang>
+  <lang slug="LOGIN SOCIAL">
+    <text>LOGIN SOCIAL</text>
+  </lang>
+  <lang slug="LINK SOCIAL PAGE">
+    <text>LINK SOCIAL PAGE</text>
+  </lang>
+  <lang slug="Website name">
+    <text>Website name</text>
+  </lang>
+  <lang slug="Website description"> 
+    <text>Website description</text>
+  </lang>
+  <lang slug="Website keywords">
+    <text>Website keywords</text>
+  </lang>
+  <lang slug="Website logo">
+    <text>Website logo</text>
+  </lang>
+  <lang slug="Theme color"> 
+    <text>Theme color</text>
+  </lang>
+  <lang slug="Timezone server"> 
+    <text>Timezone server</text>
+  </lang>
+  <lang slug="Default language">
+    <text>Default language</text>
+  </lang>
+  <lang slug="Add new language">
+    <text>Add new language</text>
+  </lang>
+  <lang slug="View demo"> 
+    <text>View demo</text>
+  </lang>
+  <lang slug="Register user"> 
+    <text>Register user</text>
+  </lang>
+  <lang slug="Auto active user">
+    <text>Auto active user</text>
+  </lang>
+  <lang slug="Default delay every post on post now">
+    <text>Default delay every post on post now</text>
+  </lang>
+  <lang slug="Minimum delay every post on post now">
+    <text>Minimum delay every post on post now</text>
+  </lang>
+  <lang slug="Default delay every post on schedule">
+    <text>Default delay every post on schedule</text>
+  </lang>
+  <lang slug="Minimum delay every post on schedule">
+    <text>Minimum delay every post on schedule</text>
+  </lang>
+  <lang slug="Maximum size of file uploads">
+    <text>Maximum size of file uploads</text>
+  </lang>
+  <lang slug="MB">
+    <text>MB</text>
+  </lang>
+  <lang slug="Facebook ID"> 
+    <text>Facebook ID</text>
+  </lang>
+  <lang slug="Facebook Secret"> 
+    <text>Facebook Secret</text>
+  </lang>
+  <lang slug="Googe Client ID"> 
+    <text>Googe Client ID</text>
+  </lang>
+  <lang slug="Google Client Secret">
+    <text>Google Client Secret</text>
+  </lang>
+  <lang slug="Twitter Consumer Secret"> 
+    <text>Twitter Consumer Secret</text>
+  </lang>
+  <lang slug="Facebook">
+    <text>Facebook</text>
+  </lang>
+  <lang slug="Twitter"> 
+    <text>Twitter</text>
+  </lang>
+  <lang slug="Pinterest"> 
+    <text>Pinterest</text>
+  </lang>
+  <lang slug="Instagram"> 
+    <text>Instagram</text>
+  </lang>
+  <lang slug="LICENSE"> 
+    <text>LICENSE</text>
+  </lang>
+  <lang slug="Purchase code"> 
+    <text>Purchase code</text>
+  </lang>
+  <lang slug="Fullname is required">
+    <text>Fullname is required</text>
+  </lang>
+  <lang slug="Email is required"> 
+    <text>Email is required</text>
+  </lang>
+  <lang slug="Invalid email format">
+    <text>Invalid email format</text>
+  </lang>
+  <lang slug="Package is required"> 
+    <text>Package is required</text>
+  </lang>
+  <lang slug="Expiration date is required"> 
+    <text>Expiration date is required</text>
+  </lang>
+  <lang slug="Timezone is required">
+    <text>Timezone is required</text>
+  </lang>
+  <lang slug="Password is required">
+    <text>Password is required</text>
+  </lang>
+  <lang slug="Passwords must be at least 6 characters"> 
+    <text>Passwords must be at least 6 characters</text>
+  </lang>
+  <lang slug="Password incorrect">
+    <text>Password incorrect</text>
+  </lang>
+  <lang slug="Login successfully">
+    <text>Login successfully</text>
+  </lang>
+  <lang slug="Your account has not been activated"> 
+    <text>Your account has not been activated</text>
+  </lang>
+  <lang slug="Username or password incorrect">
+    <text>Username or password incorrect</text>
+  </lang>
+  <lang slug="Register successfully"> 
+    <text>Register successfully</text>
+  </lang>
+  <lang slug="Email already exists">
+    <text>Email already exists</text>
+  </lang>
+  <lang slug="Admin"> 
+    <text>Admin</text>
+  </lang>
+  <lang slug="Fullname">
+    <text>Fullname</text>
+  </lang>
+  <lang slug="Email"> 
+    <text>Email</text>
+  </lang>
+  <lang slug="Expiration date"> 
+    <text>Expiration date</text>
+  </lang>
+  <lang slug="Timezone">
+    <text>Timezone</text>
+  </lang>
+  <lang slug="Changed"> 
+    <text>Changed</text>
+  </lang>
+  <lang slug="No package">
+    <text>No package</text>
+  </lang>
+  <lang slug="Update profile">
+    <text>Update profile</text>
+  </lang>
+  <lang slug="Package info">
+    <text>Package info</text>
+  </lang>
+  <lang slug="Time zone"> 
+    <text>Time zone</text>
+  </lang>
+  <lang slug="Password">
+    <text>Password</text>
+  </lang>
+  <lang slug="Re-password"> 
+    <text>Re-password</text>
+  </lang>
+  <lang slug="Update user"> 
+    <text>Update user</text>
+  </lang>
+  <lang slug="Deleted"> 
+    <text>Deleted</text>
+  </lang>
+  <lang slug="Select at least one item">
+    <text>Select at least one item</text>
+  </lang>
+  <lang slug="Select at least one Instagram account"> 
+    <text>Select at least one Instagram account</text>
+  </lang>
+  <lang slug="No data available in table">
+    <text>No data available in table</text>
+  </lang>
+  <lang slug="Please wait...">
+    <text>Please wait...</text>
+  </lang>
+  <lang slug="OR LOGIN VIA">
+    <text>OR LOGIN VIA</text>
+  </lang>
+  <lang slug="Email Address"> 
+    <text>Email Address</text>
+  </lang>
+  <lang slug="Confirm password">
+    <text>Confirm password</text>
+  </lang>
+  <lang slug="Please buy one of packages to use"> 
+    <text>Please buy one of packages to use</text>
+  </lang>
+  <lang slug="title"> 
+    <text>title</text>
+  </lang>
+  <lang slug="Total success"> 
+    <text>Total success</text>
+  </lang>
+  <lang slug="Total failure"> 
+    <text>Total failure</text>
+  </lang>
+  <lang slug="Total processing">
+    <text>Total processing</text>
+  </lang>
+</data>
